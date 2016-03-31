@@ -1,0 +1,5 @@
+www.google.com 192.168.0.7
+mail.google.com 74.125.227.149
+maps.google.com 74.215.227.150
+a.google.com 10.0.0.300
+
